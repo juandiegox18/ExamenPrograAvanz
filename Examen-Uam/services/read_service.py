@@ -1,3 +1,5 @@
+from datetime import datetime
+
 filename = "PADRON_COMPLETO.txt"
 # tupla con los valores por defecto de cada votante
 values = ("Cedula", "Codelec", "Sexo", "FechaCaduc",
@@ -18,6 +20,8 @@ def leer_votantes():
             for i in range(len(s)):
                 # se agrega el key value a cada campo del votante
                 votante[values[i]] = s[i]
+            votante["FechaCaduc"] = datetime.strptime(
+                votante["FechaCaduc"], '%Y-%m-%d').date()
             votantes.append(votante)
         return votantes
 
@@ -38,6 +42,8 @@ def obtener_mujeres_votantes():
                 votante[values[i]] = s[i]
             if(votante["Sexo"] == '2'):
                 # si el votante es de sexo femenino se agrega al array
+                votante["FechaCaduc"] = datetime.strptime(
+                    votante["FechaCaduc"], "%Y-%m-%d").date()
                 votantesMujeres.append(votante)
         return votantesMujeres
 
@@ -59,5 +65,7 @@ def obtener_votantes_distrito(id):
                 votante[values[i]] = s[i]
             if(votante["Codelec"] == id):
                 # si el votante es de distrito recibido por el id se agrega al array
+                votante["FechaCaduc"] = datetime.strptime(
+                    votante["FechaCaduc"], "%Y-%m-%d").date()
                 votantesPorDistrito.append(votante)
         return votantesPorDistrito
