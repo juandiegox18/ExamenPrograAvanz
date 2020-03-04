@@ -1,175 +1,50 @@
-﻿100339724,109007,1,20231119,01020,JOSE                          ,DELGADO                   ,CORRALES                  
-100842598,108001,2,20261024,00854,CARMEN                        ,CORRALES                  ,MORALES                   
-100842638,301027,1,20200224,03005,RAFAEL                        ,AGUERO                    ,MORA                      
-100920539,108013,2,20280207,00895,MARTA                         ,VILLALTA                  ,CASCANTE                  
-100964116,104022,1,20280207,00695,MANUEL                        ,DELGADO                   ,GUZMAN                    
-100986470,205012,2,20210210,02340,MARIA                         ,SALAS                     ,CHAVARRIA                 
-100996791,108011,2,20300204,00945,ISABEL                        ,VEGA                      ,QUIROS                    
-101007676,118005,2,20190722,01473,FELICIA                       ,VEGA                      ,VEGA                      
-101019387,101026,2,20230416,00191,CLAUDIA MANUELA               ,ESPINOZA                  ,FONSECA                   
-101020267,101005,2,20300204,00154,MARINA                        ,HERRERA                   ,OREAMUNO                  
-101020428,119073,1,20280207,01616,JOSE                          ,MENA                      ,MORA                      
-101030889,106001,2,20280207,00738,MARINA                        ,ASTUA                     ,CHACON                    
-101031136,107019,1,20300204,00823,MANUEL                        ,JIMENEZ                   ,MEZA                      
-101031563,110004,2,20260413,01065,MARINA                        ,QUIROS                    ,MORA                      
-101042358,103025,2,20211027,00565,DELFINA                       ,SEGURA                    ,JIMENEZ                   
-101053316,104015,2,20280207,00685,LUCILA                        ,PORRAS                    ,AGUERO                    
-101064216,301022,1,20220508,03056,BAUDILIO                      ,MORALES                   ,CORRALES                  
-101075091,101023,2,20230321,00072,ODILI                         ,SALAZAR                   ,MONGE                     
-101075138,119119,2,20300204,01641,OFELIA                        ,CASTILLO                  ,ROJAS                     
-101075424,115001,2,20230823,01370,MARIA                         ,MELENDEZ                  ,VARGAS                    
-101085755,607002,1,20200128,05033,PANFILO                       ,SOLIS                     ,BADILLA                   
-101085966,112009,2,20260810,01208,LUISA                         ,ABARCA                    ,CAMPOS                    
-101086402,104013,2,20280221,00680,JOSEFINA                      ,VEGA                      ,GONZALEZ                  
-101086526,101012,2,20280207,00016,DINORA                        ,OBANDO                    ,GARCIA                    
-101086579,119003,1,20220705,01720,ABDENAGO                      ,MATA                      ,VARGAS                    
-101096720,101021,2,20280207,00057,MARIA CRISTINA                ,DELGADO                   ,DELGADO                   
-101096784,104011,2,20220926,00672,ARCELIA                       ,CHAVARRIA                 ,MARIN                     
-101096896,104026,2,20240820,00692,ROSALIA                       ,FERNANDEZ                 ,CHACON                    
-101097283,409003,2,20281024,03998,ZENEIDA                       ,MORA                      ,MORA                      
-101118894,108002,2,20280223,00875,HERMINIA                      ,MORA                      ,PERAZA                    
-101119051,101002,2,20290108,00091,MARGARITA                     ,VARGAS                    ,VARGAS                    
-101119140,114003,2,20300204,01347,DORA                          ,DURAN                     ,CHINCHILLA                
-101119313,102001,2,20290114,00353,GLADYS                        ,STAHL                     ,NAVARRO                   
-101120354,115001,2,20280207,01371,THAIS                         ,PERALTA                   ,CARRANZA                  
-101120440,112028,1,20270227,01218,ERLINDO                       ,FERNANDEZ                 ,FALLAS                    
-101130651,201066,2,20230121,01814,MARIA LIDIA                   ,HERRERA                   ,ANGULO                    
-101131245,110008,1,20240325,01072,CELERINO                      ,MONTES                    ,MORA                      
-101131470,109001,1,20281023,00975,FABIO                         ,ACU�A                     ,MONGE                     
-101141576,101009,2,20261003,00132,CABIRIA                       ,MORGAN                    ,DURAN                     
-101141655,103033,2,20300204,00493,TRINIDAD                      ,VINDAS                    ,PEREZ                     
-101142376,101026,2,20220919,00198,FLORA                         ,MENDEZ                    ,CHINCHILLA                
-101152957,305014,1,20280207,03344,VICTOR                        ,RIVERA                    ,CALVO                     
-101152989,607029,1,20300204,05026,JUAN                          ,BERMUDEZ                  ,BERMUDEZ                  
-101153046,101013,2,20300204,00054,MARTA                         ,RECIO                     ,RECIO                     
-101153115,702004,1,20260202,05432,RECAREDO                      ,MURILLO                   ,GARITA                    
-101153260,119116,2,20290129,01589,EVANGELINA                    ,ROJAS                     ,URE�A                     
-101153436,201026,2,20250105,02060,ZOILA                         ,SANDI                     ,CHAVARRIA                 
-101153481,113002,2,20260202,01271,LUISA                         ,SOLANO                    ,BRENES                    
-101163542,101033,2,20210201,00124,OLGA ROMILIA                  ,VARGAS                    ,BLANCO                    
-101163671,101002,2,20270306,00079,MARIA CRISTINA                ,FALLAS                    ,MORA                      
-
-101880516,112023,1,20190319,01191,PORFIRIO                      ,MORA                      ,QUESADA                   
-101880523,108007,2,20290115,00957,CECILIA                       ,HERNANDEZ                 ,NARVAEZ                   
-101880533,508019,1,20230402,04520,MIGUEL ANGEL                  ,BARRIENTOS                ,ALFARO                    
-101880538,113001,2,20280309,01232,MARIA AURELIA                 ,OBREGON                   ,CHAVES                    
-101880550,101002,2,20250302,00090,ELBA                          ,VARELA                    ,JIMENEZ                   
-101880554,108002,2,20250917,00875,JULIETA                       ,LOAIZA                    ,GONZALEZ                  
-101880558,108002,2,20300204,00875,BERTILIA                      ,HUERTAS                   ,AGUERO                    
-101880566,101006,1,20200325,00171,GILBERTO CARLOS               ,HERNANDEZ                 ,VILLALOBOS                
-101880574,118001,2,20280911,01457,MARIA                         ,GONZALEZ                  ,GRANADOS                  
-101880579,113001,2,20280410,01221,FLOR MARIA                    ,ARROYO                    ,CHAVES                    
-101880585,101010,2,20260203,00316,OLGA                          ,JIMENEZ                   ,MONTERO                   
-101880587,110002,1,20280207,01044,FRANCISCO                     ,AZOFEIFA                  ,AZOFEIFA                  
-101880597,101020,1,20221031,00048,CARLOS                        ,PANIAGUA                  ,CORDOBA                   
-101880601,113007,2,20201004,01245,ARGELIA                       ,MIRANDA                   ,CALDERON                  
-101880603,101006,2,20201101,00171,MARIA DE LOS ANGELES          ,GUTIERREZ                 ,BARRANTES                 
-101880604,101036,1,20260202,00285,JORGE ANTONIO                 ,VARGAS                    ,MESEN                     
-101880613,101002,2,20281001,00075,ISABEL                        ,ARTAVIA                   ,CHACON                    
-101880626,101007,2,20270418,00243,OLINDIA                       ,JARA                      ,ESPINOZA                  
-101880630,113007,2,20230424,01247,TERESITA                      ,RODRIGUEZ                 ,MONLUIS                   
-101880635,101002,2,20280401,00087,NORMA                         ,RODRIGUEZ                 ,ARAYA                     
-101880639,115002,2,20300204,01387,ANGELA                        ,QUESADA                   ,ARTAVIA                   
-101880645,108011,2,20240429,00937,MARIA TERESA                  ,HERRERA                   ,FLORES                    
-101880657,118008,2,20240618,01486,MARIA EUGENIA                 ,SOLANO                    ,ROCHA                     
-101880662,401003,2,20280207,03581,EMILCE                        ,CHAVES                    ,VIQUEZ                    
-101880665,101032,2,20300204,00093,JESSIE                        ,CASTILLO                  ,ESTRADA                   
-101880673,101027,2,20220912,00212,JULIA                         ,AGUILAR                   ,PACHECO                   
-101880676,401005,2,20300204,03613,CLARA                         ,CHAVES                    ,MADRIGAL                  
-101880686,101018,1,20230117,00036,JUAN RAFAEL                   ,DURAN                     ,SIBAJA                    
-101880689,106001,2,20280308,00751,CLARA LUZ                     ,MORA                      ,CECILIANO                 
-101880691,103002,1,20230722,00457,FELIX                         ,MORA                      ,FALLAS                    
-101880711,104001,2,20280706,00653,DAISY                         ,MADRIGAL                  ,JIMENEZ                   
-101880714,104004,2,20281129,00666,LUZMILDA                      ,BARBOZA                   ,BARBOZA                   
-101880715,502084,1,20280207,04192,JACINTO                       ,VEGA                      ,MARIN                     
-101880716,402004,2,20290122,03715,ISOLINA                       ,FERNANDEZ                 ,DUARTE                    
-101880717,202045,2,20250317,02130,CARMEN ALEX                   ,CASTRO                    ,GODINEZ                   
-101880720,113002,1,20231108,01261,RAMIRO                        ,ALVARADO                  ,RODRIGUEZ                 
-101880728,101036,2,20260310,00280,JOSEFINA                      ,QUIROS                    ,CASTRO                    
-101880730,118007,1,20280207,01490,JORGE                         ,CASCANTE                  ,LEZCANO                   
-101880733,103030,1,20280808,00582,LINO                          ,GUADAMUZ                  ,MADRIGAL                  
-101880741,109008,2,20280920,01026,ODILIA                        ,FERNANDEZ                 ,SOLIS                     
-101880746,101008,2,20200629,00306,LILIA                         ,RIVERA                    ,CASTRO                    
-101880754,111001,2,20240721,01113,MARY ISABEL                   ,QUESADA                   ,BENAVIDES                 
-101880769,111001,1,20260302,01114,ALCIDES                       ,RODRIGUEZ                 ,VARGAS                    
-101880771,111002,2,20240221,01130,CLAUDIA                       ,RODRIGUEZ                 ,ACU�A                     
-101880774,111008,2,20300204,01123,ZORAIDA                       ,ROBLES                    ,ARAYA                     
-101880781,108011,1,20280504,00937,VICTOR MANUEL                 ,HIDALGO                   ,BIRIT                     
-101880785,103001,2,20240701,00418,CLAUDINA                      ,UMA�A                     ,ZU�IGA                    
-101880802,119089,2,20220515,01687,ESTRELLA                      ,MORA                      ,QUESADA                   
-101880804,112001,2,20281003,01181,BIENVENIDA                    ,DELGADO                   ,ALFARO                    
-101880805,103006,1,20300204,00524,FAUSTO                        ,RODRIGUEZ                 ,DURAN                     
-101880817,107001,1,20230206,00809,RAFAEL                        ,CHINCHILLA                ,CHINCHILLA                
-101880818,112001,1,20281217,01185,EDUARDO                       ,SEGURA                    ,ARIAS                     
-101880825,101031,2,20230409,00143,ROSA                          ,PIEDRA                    ,CHINCHILLA                
-101880827,119122,1,20300204,01647,SILVINIO                      ,NAVARRO                   ,CHINCHILLA                
-101880832,108006,2,20260202,00918,LIGIA                         ,MARTINEZ                  ,GUTIERREZ                 
-101880835,114003,1,20281203,01349,AURIEL                        ,HERRERA                   ,RAMOS                     
-101880838,114001,1,20300204,01327,HECTOR LUIS                   ,UMA�A                     ,UMA�A                     
-101880840,110001,2,20300204,01029,TERESA                        ,ARAYA                     ,GOMEZ                     
-101880859,118007,2,20220308,01499,LUZ DIVINA                    ,SANCHEZ                   ,RAMIREZ                   
-101880862,610009,1,20280209,05229,DOMINGO                       ,ARCE                      ,RUBI                      
-101880863,115002,2,20300204,01380,MARIA EUGENIA                 ,CUBILLO                   ,SANCHEZ                   
-101880876,117001,1,20200923,01440,NEFTALI                       ,CASTRO                    ,FLORES                    
-101880878,105006,1,20300204,00719,JUAN RAMON                    ,SOLIS                     ,SOLIS                     
-101880888,119001,2,20300204,01525,ARACELI                       ,BARRANTES                 ,FONSECA                   
-101880899,103001,2,20220209,00417,ALICIA                        ,SEGURA                    ,CASTRO                    
-101880906,101032,2,20240318,00098,MARIA ISABEL                  ,SOTO                      ,COTO                      
-101880911,108001,2,20191222,00857,HILDA MARIA                   ,GOMEZ                     ,JIMENEZ                   
-101880915,103008,1,20260310,00532,BELSEVI                       ,BADILLA                   ,ZU�IGA                    
-101880924,101024,2,20280212,00328,MARIA DE LOS ANGELES          ,LOPEZ                     ,DELGADO                   
-101880927,108001,2,20201015,00870,TERESITA                      ,SOJO                      ,PALMA                     
-101880935,115005,2,20280207,01423,MARIA CRISTINA                ,VARGAS                    ,DIAZ                      
-101880944,102001,1,20250724,00351,JORGE                         ,ROJAS                     ,ABARCA                    
-101880949,103007,2,20201019,00602,ELIZABETH                     ,VALVERDE                  ,RETANA                    
-101880960,101028,1,20300204,00224,HERMES                        ,GARCIA                    ,ALVAREZ                   
-101880977,103008,2,20300204,00531,MARIA EUGENIA                 ,ARGUEDAS                  ,BRENES                    
-101880983,103011,2,20250427,00552,MAGDALENA                     ,GUERRERO                  ,MONGE                     
-101890004,103007,1,20280207,00592,ISMAEL                        ,DELGADO                   ,VALVERDE                  
-101890011,101025,2,20280822,00258,MARIA HORTENSIA               ,CERDAS                    ,DURAN                     
-101890025,101038,2,20280315,00336,ELIETT FELICIA                ,OTAROLA                   ,RODRIGUEZ                 
-101890032,116012,1,20220921,01430,BELISARIO                     ,GUERRERO                  ,AGUERO                    
-101890033,118003,2,20300204,01508,MARIA FLOR                    ,ZU�IGA                    ,CHACON                    
-101890034,104022,1,20300204,00696,MANUEL                        ,HERRERA                   ,MORA                      
-101890038,104001,1,20270512,00650,ANTONIO                       ,DIAZ                      ,ARTAVIA                   
-101890042,201050,1,20220521,01959,BELTRAN                       ,TORRES                    ,VINDAS                    
-101890043,117001,1,20200408,01441,JUAN FELIPE                   ,GRANADOS                  ,NAVARRO                   
-101890048,105013,1,20230122,00730,BERNARDO                      ,VARGAS                    ,PICADO                    
-101890071,119021,1,20260616,01653,VIRGILIO                      ,JIMENEZ                   ,GAMBOA                    
-101890084,201005,1,20280207,01844,ANTONIO                       ,CESPEDES                  ,MORA                      
-101890092,106001,2,20200823,00742,DOMITILA                      ,CHINCHILLA                ,CASTRO                    
-101890100,106010,1,20280622,00791,FRANCISCO                     ,MORENO                    ,CAMACHO                   
-101890102,702029,2,20281106,05409,ELIETH GERTRUDIS              ,GARCIA                    ,PORRAS                    
-101890106,114001,2,20220530,01312,ELICIA                        ,HIDALGO                   ,HIDALGO                   
-101890107,602016,2,20280226,04793,FLOR DE MARIA                 ,CALDERON                  ,DIAZ                      
-101890114,303006,1,20300204,03245,MARIO                         ,ZU�IGA                    ,RAMIREZ                   
-101890124,108006,2,20280207,00918,MARIA ISABEL                  ,MONGE                     ,VILLEGAS                  
-101890145,102003,2,20220308,00382,FLOR MARIA                    ,GUIDO                     ,BRENES                    
-101890147,101003,2,20240212,00109,MIREYA                        ,ORTIZ                     ,CHAVES                    
-101890151,113003,1,20241103,01285,VICTOR MANUEL                 ,CASTRO                    ,PORRAS                    
-101890152,113007,2,20280207,01248,CARMEN MARIA                  ,TORRES                    ,OBANDO                    
-101890156,606003,1,20280207,05006,ENRIQUE                       ,GIL                       ,RUIZ                      
-101890158,101033,2,20220217,00122,AUREA                         ,ROCHA                     ,ROJAS                     
-101890178,605024,2,20300204,04942,CATALINA                      ,VILLALTA                  ,CASCANTE                  
-101890184,101004,1,20280409,00126,ARNULFO                       ,JIMENEZ                   ,SALAZAR                   
-101890197,605020,1,20220308,04929,MIGUEL                        ,SOLIS                     ,ALVAREZ                   
-101890206,201048,2,20220306,01931,DAISY                         ,AVALOS                    ,MURILLO                   
-101890208,101037,2,20280207,00287,JOSEFINA MIREYA               ,BARRANTES                 ,SOLIS                     
-101890228,101002,2,20290118,00075,IDA LINA                      ,ARIAS                     ,ZU�IGA                    
-101890233,116002,2,20231118,01426,LUZ                           ,JIMENEZ                   ,FALLAS                    
-101890251,108001,2,20221115,00848,EVANGELINA                    ,ARGUEDAS                  ,VARGAS                    
-101890262,110001,2,20220705,01029,HORTENSIA                     ,ALVARADO                  ,ESPINOZA                  
-101890265,107015,1,20300204,00836,SERGIO                        ,MADRIGAL                  ,ANGULO                    
-101890286,103008,1,20280207,00536,RAFAEL EMILIO                 ,GONZALEZ                  ,GONZALEZ                  
-101890287,118001,2,20300204,01458,MARIA EUGENIA                 ,HUERTAS                   ,CASTILLO                  
-101890290,114001,2,20220427,01320,TERESITA                      ,QUIROS                    ,GRANADOS                  
-101890293,601047,1,20300204,04739,JOSE MANUEL                   ,UMA�A                     ,MURILLO                   
-101890307,115006,2,20250130,01407,CARMELINA                     ,JARA                      ,VARGAS                    
-101890318,702006,2,20300204,05494,BELARMINA                     ,RUBI                      ,ADANIS                    
-101890324,115001,2,20250527,01372,VITHYNIA                      ,ROJAS                     ,ALFARO                    
-101890331,101001,1,20300204,00025,MARIO ANTONIO                 ,GUASCH                    ,GARCIA                    
-101890344,101002,1,20221019,00079,VICTOR                        ,CRUZ                      ,MONGE                     
-101890347,101032,2,20300204,00096,LIGIA MARIA                   ,MONTURIOL                 ,GUARDIA                   
-101890361,114001,2,20270214,01312,MARIA CECILIA                 ,JIMENEZ                   ,PEREZ                     
-101890363,101002,1,20240327,00074,ROBERTO                       ,ABARCA                    ,GUZMAN                    
-101890373,119074,1,20220731,01620,RAFAEL ANGEL                  ,MARIN                     ,VARGAS                    
+100339724,109007,1,2023-11-19,01020,JOSE                          ,DELGADO                   ,CORRALES                  
+100842598,108001,2,2026-10-24,00854,CARMEN                        ,CORRALES                  ,MORALES                   
+100842638,301027,1,2020-02-24,03005,RAFAEL                        ,AGUERO                    ,MORA                      
+100920539,108013,2,2028-02-07,00895,MARTA                         ,VILLALTA                  ,CASCANTE                  
+100964116,104022,1,2028-02-07,00695,MANUEL                        ,DELGADO                   ,GUZMAN                    
+100986470,205012,2,2021-02-10,02340,MARIA                         ,SALAS                     ,CHAVARRIA                 
+100996791,108011,2,2030-02-04,00945,ISABEL                        ,VEGA                      ,QUIROS                    
+101007676,118005,2,2019-07-22,01473,FELICIA                       ,VEGA                      ,VEGA                      
+101019387,101026,2,2023-04-16,00191,CLAUDIA MANUELA               ,ESPINOZA                  ,FONSECA                   
+101020267,101005,2,2030-02-04,00154,MARINA                        ,HERRERA                   ,OREAMUNO                  
+101020428,119073,1,2028-02-07,01616,JOSE                          ,MENA                      ,MORA                      
+101030889,106001,2,2028-02-07,00738,MARINA                        ,ASTUA                     ,CHACON                    
+101031136,107019,1,2030-02-04,00823,MANUEL                        ,JIMENEZ                   ,MEZA                      
+101031563,110004,2,2026-04-13,01065,MARINA                        ,QUIROS                    ,MORA                      
+101042358,103025,2,2021-10-27,00565,DELFINA                       ,SEGURA                    ,JIMENEZ                   
+101053316,104015,2,2028-02-07,00685,LUCILA                        ,PORRAS                    ,AGUERO                    
+101064216,301022,1,2022-05-08,03056,BAUDILIO                      ,MORALES                   ,CORRALES                  
+101075091,101023,2,2023-03-21,00072,ODILI                         ,SALAZAR                   ,MONGE                     
+101075138,119119,2,2030-02-04,01641,OFELIA                        ,CASTILLO                  ,ROJAS                     
+101075424,115001,2,2023-08-23,01370,MARIA                         ,MELENDEZ                  ,VARGAS                    
+101085755,607002,1,2020-01-28,05033,PANFILO                       ,SOLIS                     ,BADILLA                   
+101085966,112009,2,2026-08-10,01208,LUISA                         ,ABARCA                    ,CAMPOS                    
+101086402,104013,2,2028-02-21,00680,JOSEFINA                      ,VEGA                      ,GONZALEZ                  
+101086526,101012,2,2028-02-07,00016,DINORA                        ,OBANDO                    ,GARCIA                    
+101086579,119003,1,2022-07-05,01720,ABDENAGO                      ,MATA                      ,VARGAS                    
+101096720,101021,2,2028-02-07,00057,MARIA CRISTINA                ,DELGADO                   ,DELGADO                   
+101096784,104011,2,2022-09-26,00672,ARCELIA                       ,CHAVARRIA                 ,MARIN                     
+101096896,104026,2,2024-08-20,00692,ROSALIA                       ,FERNANDEZ                 ,CHACON                    
+101097283,409003,2,2028-10-24,03998,ZENEIDA                       ,MORA                      ,MORA                      
+101118894,108002,2,2028-02-23,00875,HERMINIA                      ,MORA                      ,PERAZA                    
+101119051,101002,2,2029-01-08,00091,MARGARITA                     ,VARGAS                    ,VARGAS                    
+101119140,114003,2,2030-02-04,01347,DORA                          ,DURAN                     ,CHINCHILLA                
+101119313,102001,2,2029-01-14,00353,GLADYS                        ,STAHL                     ,NAVARRO                   
+101120354,115001,2,2028-02-07,01371,THAIS                         ,PERALTA                   ,CARRANZA                  
+101120440,112028,1,2027-02-27,01218,ERLINDO                       ,FERNANDEZ                 ,FALLAS                    
+101130651,201066,2,2023-01-21,01814,MARIA LIDIA                   ,HERRERA                   ,ANGULO                    
+101131245,110008,1,2024-03-25,01072,CELERINO                      ,MONTES                    ,MORA                      
+101131470,109001,1,2028-10-23,00975,FABIO                         ,ACU�A                     ,MONGE                     
+101141576,101009,2,2026-10-03,00132,CABIRIA                       ,MORGAN                    ,DURAN                     
+101141655,103033,2,2030-02-04,00493,TRINIDAD                      ,VINDAS                    ,PEREZ                     
+101142376,101026,2,2022-09-19,00198,FLORA                         ,MENDEZ                    ,CHINCHILLA                
+101152957,305014,1,2028-02-07,03344,VICTOR                        ,RIVERA                    ,CALVO                     
+101152989,607029,1,2030-02-04,05026,JUAN                          ,BERMUDEZ                  ,BERMUDEZ                  
+101153046,101013,2,2030-02-04,00054,MARTA                         ,RECIO                     ,RECIO                     
+101153115,702004,1,2026-02-02,05432,RECAREDO                      ,MURILLO                   ,GARITA                    
+101153260,119116,2,2029-01-29,01589,EVANGELINA                    ,ROJAS                     ,URE�A                     
+101153436,201026,2,2025-01-05,02060,ZOILA                         ,SANDI                     ,CHAVARRIA                 
+101153481,113002,2,2026-02-02,01271,LUISA                         ,SOLANO                    ,BRENES                    
+101163542,101033,2,2021-02-01,00124,OLGA ROMILIA                  ,VARGAS                    ,BLANCO                    
+101163671,101002,2,2027-03-06,00079,MARIA CRISTINA                ,FALLAS                    ,MORA                      
