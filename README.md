@@ -1,3 +1,2 @@
 # ExamenPrograAvanz
 Examen I
-Holi
